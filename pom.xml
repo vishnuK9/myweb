@@ -27,8 +27,8 @@
 
 	</dependencies>
 	
-	<distributionManagement>
-		 <snapshotRepository>
+	<!--<distributionManagement>
+	//	 <snapshotRepository>
 		    <id>nexusRepo</id>
 		    <url>http://13.233.230.166:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
@@ -37,7 +37,7 @@
 		    <id>nexusRepo</id>
 		    <url>http://13.233.230.166:8081/repository/maven-releases/</url>
 		</repository>
-  	</distributionManagement>
+  	</distributionManagement>-->
 	
 	<pluginRepositories>
 	    <pluginRepository>    
